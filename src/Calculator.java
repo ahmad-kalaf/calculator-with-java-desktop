@@ -2,6 +2,10 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+/**
+ * @author Ahmad Kalaf
+ * @version 19.02.2024
+ */
 public class Calculator implements ActionListener
 {
 	private JFrame _frame;
@@ -230,4 +234,3 @@ public class Calculator implements ActionListener
 	}
 
 }
-//
